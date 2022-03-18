@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\VSSystem.Hosting"
+		},
+		{
+			"path": "..\\..\\..\\NETStd\\Libraries\\VSSystem"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  
+  <ItemGroup>
+    <ProjectReference Include="..\VSSystem.Hosting\VSSystem.Hosting.csproj" />
+  </ItemGroup>
+  
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <AssemblyName>MonitoringService</AssemblyName>
+    <Version>1.0.1</Version>
+    <FileVersion>1.0.1</FileVersion>
+    <OutputType>Exe</OutputType>
+    <Description>Modify monitor</Description>
+    <Company>Evidence IQ</Company>
+    <Authors>Evidence IQ</Authors>
+    <Copyright>Evidence IQ</Copyright>
+    <ApplicationIcon>service.ico</ApplicationIcon>
+  </PropertyGroup>
+</Project>
